@@ -1,4 +1,4 @@
-![Luis Donaldo Macías Hernández - QA](https://imgur.com/a/sNvGVto)
+![Luis banner](https://i.imgur.com/undhoZ8.png)
 
 <h1 align="center">👋 Hola! , Soy Luis :)</h1>
 Graduado del bootcamp de Tripleten 🎓, donde me especialicé en Quality Assurance (QA). Me apasiona la tecnología 💻 y siempre estoy buscando nuevas maneras de aplicar mis habilidades para mejorar la calidad de sitios web y aplicaciones 🌐.
